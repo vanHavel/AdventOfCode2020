@@ -26,6 +26,7 @@ library
   exposed-modules:
       Days.Day1
       Days.Day2
+      Days.Day3
       Switcher
   other-modules:
       Paths_aoc2020

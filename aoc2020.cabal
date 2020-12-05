@@ -27,6 +27,7 @@ library
       Days.Day1
       Days.Day2
       Days.Day3
+      Days.Day4
       Switcher
   other-modules:
       Paths_aoc2020
@@ -37,6 +38,7 @@ library
     , base >=4.7 && <5
     , containers
     , parsec
+    , split
   default-language: Haskell2010
 
 executable aoc2020-exe
@@ -52,4 +54,5 @@ executable aoc2020-exe
     , base >=4.7 && <5
     , containers
     , parsec
+    , split
   default-language: Haskell2010

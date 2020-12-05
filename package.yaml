@@ -23,6 +23,7 @@ dependencies:
 - array
 - containers
 - parsec
+- split
 
 library:
   source-dirs: src

@@ -32,6 +32,7 @@ library
       Days.Day6
       Days.Day7
       Days.Day8
+      Days.Day9
       Switcher
   other-modules:
       Paths_aoc2020

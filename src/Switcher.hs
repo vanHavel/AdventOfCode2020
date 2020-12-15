@@ -14,7 +14,7 @@ import Days.Day11 ( run )
 import Days.Day12 ( run )
 import Days.Day13 ( run )
 import Days.Day14 ( run )
---import Days.Day15
+import Days.Day15 ( run )
 --import Days.Day16
 --import Days.Day17
 --import Days.Day18
@@ -41,7 +41,7 @@ runDay 11 = Days.Day11.run
 runDay 12 = Days.Day12.run
 runDay 13 = Days.Day13.run
 runDay 14 = Days.Day14.run
---runDay 15 = Days.Day15.run
+runDay 15 = Days.Day15.run
 --runDay 16 = Days.Day16.run
 --runDay 17 = Days.Day17.run
 --runDay 18 = Days.Day18.run

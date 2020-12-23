@@ -21,7 +21,7 @@ import Days.Day18 ( run )
 import Days.Day19 ( run )
 import Days.Day20 ( run )
 import Days.Day21 ( run )
---import Days.Day22
+import Days.Day22 ( run )
 --import Days.Day23
 --import Days.Day24
 --import Days.Day25
@@ -48,7 +48,7 @@ runDay 18 = Days.Day18.run
 runDay 19 = Days.Day19.run
 runDay 20 = Days.Day20.run
 runDay 21 = Days.Day21.run
---runDay 22 = Days.Day22.run
+runDay 22 = Days.Day22.run
 --runDay 23 = Days.Day23.run
 --runDay 24 = Days.Day24.run
 --runDay 25 = Days.Day25.run

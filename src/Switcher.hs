@@ -24,7 +24,7 @@ import Days.Day21 ( run )
 import Days.Day22 ( run )
 import Days.Day23 ( run )
 import Days.Day24 ( run )
---import Days.Day25
+import Days.Day25 ( run )
 
 runDay :: Int -> String -> String
 runDay 1 = Days.Day1.run
@@ -51,4 +51,4 @@ runDay 21 = Days.Day21.run
 runDay 22 = Days.Day22.run
 runDay 23 = Days.Day23.run
 runDay 24 = Days.Day24.run
---runDay 25 = Days.Day25.run
+runDay 25 = Days.Day25.run
